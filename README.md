@@ -21,7 +21,7 @@ atsm -p example/**/*.scss
 ## API
 
 ```javascript
-import Creator from "awesome-typed-sass-modules";
+import Creator from "@jjvvv/typed-sass-modules";
 
 const ins = new Creator({
   verbose: true
