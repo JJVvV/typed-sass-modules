@@ -9,7 +9,7 @@
   "main": "lib/Creator.js",
   "scripts": {
     "prepublish": "npm run build",
-    "build": "babel src -d lib --verbose",
+    "build": "babel src -d lib --verbose ",
     "watch": "babel src -d lib --verbose --watch",
     "babel": "babel"
   },
