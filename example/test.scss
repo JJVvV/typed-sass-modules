@@ -1,0 +1,7 @@
+@import "./global.scss";
+
+.local {
+  @extend .global;
+  display: block;
+  border: 1px solid green;
+}
